@@ -28,19 +28,3 @@ print(f"Your income tax is: {tax}")
 
         
 
-
-# if income <= 300000:  #3 Lakh nill
-#     tax = 0
-# elif income <= 500000: #5 Lakh 5% tax
-#     tax = (income - 3000000) * 0.05
-# elif income <= 650000: #6 lakh 50 thousand 10% tax
-#     tax = (income - 500000) * 0.10 + 12500 
-# elif income <= 1000000: #10 Lakh 15% tax
-#     tax = (income - 600000) * 0.15 + 37500 
-# elif income <= 1150000: #11 lakh 50 thousand 20% tax
-#     tax = (income - 1000000) * 0.20 + 75000 
-# elif income <= 1500000: #15 lakh 25%
-#     tax = (income - 1250000) * 0.25 + 125000 
-# else:
-#     tax = (income - 1500000) * 0.30 + 187500
-# print("your Income", tax, "Rupees in tax!")
