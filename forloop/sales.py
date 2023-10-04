@@ -32,7 +32,3 @@ for month, phoneCount in enumerate(monthlySalesList):
     previousMonthSalary = currentMonthSalary
 #This code calculates the salary for each month, tracks the cumulative bonus, and increases the base salary by 5% if the cumulative bonus exceeds one lakh. It also checks for the additional bonus condition based on the previous month's salary and phone sales.
 
-
-
-
-

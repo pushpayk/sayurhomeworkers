@@ -21,10 +21,3 @@ for i in range(len(salaries)):
 
 print(f"Your income tax is: {tax}")
 
-
-
-
-
-
-        
-
